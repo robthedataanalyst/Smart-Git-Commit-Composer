@@ -1,0 +1,1 @@
+# Smart-Git-Commit-Composer
